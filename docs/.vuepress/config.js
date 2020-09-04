@@ -56,7 +56,7 @@ module.exports = {
         // 侧边栏在 /foo/ 上
         '/index/': [
           ['', '导入语'],
-          ['test', '侧边导航1']
+          ['command', '常用命令']
         ],
         // 侧边栏在 /about/ 目录上
         '/about/': [
