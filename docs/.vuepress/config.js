@@ -55,11 +55,12 @@ module.exports = {
       sidebar: {
         // 侧边栏在 /foo/ 上
         '/index/': [
-          ['test', '入门']
+          ['', '导入语'],
+          ['test', '侧边导航1']
         ],
         // 侧边栏在 /about/ 目录上
         '/about/': [
-            ['test', '关于我们']
+            ['', 'README']
         ]
       }
   }
